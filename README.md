@@ -21,6 +21,11 @@ Welcome to my interactive, photography-focused personal website — a visually r
 - CSS3 (custom styles + transitions)  
 - JavaScript (Vanilla JS for interactivity)  
 
+---
+📸 Screenshot
+
+![image](https://github.com/user-attachments/assets/08666e9e-db4c-4b87-bd46-34f7dc48d628)
+
 ## 🚀 Live Demo
 
 Check it out here:  
