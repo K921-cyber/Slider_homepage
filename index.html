@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Photo Showcase</title>
+  <link rel="stylesheet" href="style1.css" />
+</head>
+<body>
+  <div class="background-overlay"></div>
+
+  <header>
+    <nav>
+      <div class="logo">
+        <img src="kc1.png" alt="Logo" />
+      </div>
+      <ul class="nav-links">
+        <li><a href="#about">About</a></li>
+        <li><a href="#gallery">Gallery</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h1 class="typewriter">Welcome to My Website</h1>
+    <p>This is a stylish and interactive photo showcase site.</p>
+    <button onclick="scrollToContact()">Say Hello</button>
+  </section>
+
+  <section class="slider-section" id="gallery">
+    <h2>Gallery</h2>
+    <div class="slider-container">
+      <div class="slider-track">
+        <img src="image1.jpg" alt="Nature Scene 1" />
+        <img src="img2.jpg" alt="Nature Scene 2" />
+        <img src="img3.jpg" alt="Nature Scene 3" />
+        <img src="img4.jpg" alt="Nature Scene 4" />
+      </div>
+      <button class="prev">&#10094;</button>
+      <button class="next">&#10095;</button>
+    </div>
+  </section>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>I’m a passionate learner and developer interested in web and cybersecurity.</p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Me</h2>
+    <form id="contactForm">
+      <input type="text" placeholder="Your Name" required/>
+      <input type="email" placeholder="Your Email" required/>
+      <textarea placeholder="Your Message" required></textarea>
+      <button type="submit">Send</button>
+    </form>
+    <p id="confirmationMessage"></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 My Website. All rights reserved.</p>
+  </footer>
+
+  <script src="script1.js"></script>
+</body>
+</html>
