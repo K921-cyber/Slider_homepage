@@ -29,6 +29,6 @@ Welcome to my interactive, photography-focused personal website — a visually r
 ## 🚀 Live Demo
 
 Check it out here:  
-👉 (https://k921-cyber.github.io/Slider_homepage/)
+👉 (https://k921-cyber.github.io/Slider_homepage/)...
 
 
