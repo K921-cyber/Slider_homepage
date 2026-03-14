@@ -91,3 +91,4 @@ This site blends **modern web design** and **aesthetic visuals** to showcase my 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:00C6FF&height=100&section=footer&text=Capture+🌈+|+Create+🎨+|+Inspire+🚀&fontColor=ffffff&fontSize=18" />
 </p>
 
+
